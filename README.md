@@ -2,6 +2,8 @@
 
 A repository template for Scala development in Codespaces
 
+https://www.reddit.com/r/scala/comments/13lgc3w/template_for_scala_development_in_codespaces/
+
 ## Description
 
 This GitHub repository template enables Scala 3 development in GitHub Codespaces.

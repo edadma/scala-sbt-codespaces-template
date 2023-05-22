@@ -12,6 +12,7 @@ metals.sbt
 project/project/
 project/target/
 target/
+.bsp/
 
 # VS Code
 .vscode/*
